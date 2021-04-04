@@ -1,2 +1,0 @@
-# theory
-the whole theory 
